@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi 👋, I'm Akanksha<br><br>💻 Passionate **Full Stack, Python,AI-ML, Data Science, TypeScript Developer, and Automation Tester** dedicated to building scalable applications, creating intelligent solutions, and ensuring software quality through automation.<br><br>🚀 About Me<br><br>* 🌐 Full Stack Developer<br>* 🐍 Python Developer<br>* 📊 Data Science Enthusiast<br>* ⚡ TypeScript Developer<br>* 🤖 Automation Tester<br>* 🌱 Continuously learning new technologies and frameworks<br>* 💡 Interested in AI, Machine Learning, Web Development, and Software Testing<br><br>🛠️ Tech Stack<br><br>👩‍💻 Languages<br><br>* Python<br>* TypeScript<br>* JavaScript<br>* HTML5<br>* CSS3<br><br>🎨 Frontend<br><br>* React<br>* Next.js<br>* Tailwind CSS<br>* Bootstrap<br><br>⚙️ Backend<br><br>* Node.js<br>* Express.js<br>* FastAPI<br>* Django<br><br>🗄️ Databases<br><br>* MongoDB<br>* PostgreSQL<br>* MySQL<br><br> 📈 Data Science<br><br>* Pandas<br>* NumPy<br>* Matplotlib<br>* Scikit-learn<br>* Jupyter Notebook<br><br>🤖 Automation Testing<br><br>* Playwright<br>* Pytest<br>🔧 Tools<br><br>* Git<br>* GitHub<br>* Docker<br>* Postman<br>* VS Code<br><br> 📈 What I Do<br><br>* 🚀 Build modern, responsive full-stack web applications<br>* 🐍 Develop Python applications and automation tools<br>* 📊 Analyze data and build machine learning models<br>* ✅ Create reliable UI and API automation test suites<br>* 💡 Write clean, scalable, and maintainable code<br><br>🎯 Goals<br><br>* Contribute to impactful open-source projects<br>* Build innovative AI and data-driven applications<br>* Continuously improve development and testing skills<br>* Collaborate with developers around the world<br><br>📫 Connect With Me<br><br>* GitHub: https://github.com/yourusername<br>* LinkedIn: https://linkedin.com/in/yourprofile<br>* Portfolio: https://yourwebsite.com<br><br>⭐ *"Code. Learn. Automate. Innovate."*<br>
 
-<!--
-**akanksha1526/akanksha1526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=akanksha1526&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=akanksha1526&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=akanksha1526&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=akanksha1526&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
